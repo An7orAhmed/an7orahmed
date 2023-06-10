@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antor</h1>
-<h3 align="center">A passionate flutter cross-platform application, Web Application & embedded system developer from Bangladesh</h3>
+<h3 align="center">A passionate flutter cross-platform application, web application & embedded system developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=an7orahmed&label=Profile%20views&color=0e75b6&style=flat" alt="an7orahmed" /> </p>
 
