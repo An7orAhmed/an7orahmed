@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://An7orAhmed.github.io](https://An7orAhmed.github.io)
+- 👨‍💻 All of my projects are available at [https://an7or.netlify.app](https://an7or.netlify.app)
 
 - 📝 I regularly write articles on [https://An7orAhmed.blogspot.com](https://An7orAhmed.blogspot.com)
 
