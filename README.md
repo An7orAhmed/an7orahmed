@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=an7orahmed" alt="an7orahmed" /></a> </p>
 
+- 🔭 I’m currently working on [Teton Private Ltd.](https://tetonelectronics.com/) as a Embedded Engineer I, Flutter Developer.
+
 - 🔭 I’m currently working on [JPods LLC](https://www.jpods.com) as a remote developer.
 
 - 🌱 I’m currently learning **Data Structure & Algorithms, Flutter, Web Development, Python**
